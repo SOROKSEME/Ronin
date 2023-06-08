@@ -1,0 +1,43 @@
+.body {
+    background-color: #cec58f;
+}
+
+.back {
+    background-color: rgb(240, 233, 233);
+}
+
+.ac:hover {
+    color: rgb(235, 151, 151);
+}
+
+.block {
+    padding: 10px;
+    background-color: #f3f3f3;
+}
+
+.facets  {
+    margin: 0px 140px;
+}
+
+.accounts {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    padding-left: 8px;
+    background-color: black;
+}
+
+.posit {
+    margin: 180px 0px;
+}
+
+.input {
+    width: 540px;
+    height: 50px;
+}
+
+.submit {
+    border-radius: 50px;
+    width: 140px;
+    height: 50px;
+}
